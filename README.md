@@ -1,5 +1,9 @@
 # README
 
+### use
+
+[vite](https://ja.vitejs.dev/guide/)
+
 ### commands
 
 ```bash
